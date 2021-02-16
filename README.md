@@ -1,3 +1,4 @@
 # Practice
 
-"Talk is cheap. Show me the code."     -Linus Torvalds
+"Talk is cheap. Show me the code."     
+                  -Linus Torvalds
